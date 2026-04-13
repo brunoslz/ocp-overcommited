@@ -29,7 +29,7 @@ This tool helps cluster operators quickly identify nodes that are overcommitted 
 
 1. **Clone or download the files:**
    ```bash
-   cd /home/blima/GIT-REPOS/CLAUDE
+   cd /home/brunoslz/GIT-REPOS/CLAUDE
    ```
 
 2. **Install Python dependencies:**
@@ -436,5 +436,3 @@ For questions or issues:
 - Review test suite: `pytest test_monitor.py -v`
 
 ---
-
-**Built with ❤️ using Claude AI**
