@@ -29,7 +29,7 @@ This tool helps cluster operators quickly identify nodes that are overcommitted 
 
 1. **Clone or download the files:**
    ```bash
-   cd /home/brunoslz/GIT-REPOS/CLAUDE
+   cd /home/brunoslz/GIT-REPOS/ocp-overcommited
    ```
 
 2. **Install Python dependencies:**
